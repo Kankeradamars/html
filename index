@@ -1,0 +1,13 @@
+body{
+    color: darkolivegreen;
+}
+h1{
+  color: darkolivegreen;  
+  margin-left: 25px;
+  background-color: rgb(201, 140, 87);
+}
+h2{
+    color: brown;
+    margin-left: 40px;
+    font-size: large;
+}
